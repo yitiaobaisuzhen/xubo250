@@ -1,0 +1,178 @@
+#content_all{
+	margin:0 auto;
+	width: 1200px;
+}
+#ticket{
+	position: relative;
+	margin:0 auto;
+	width: 1400px;
+	height: 410px;
+	background: url(../images/feiji_1.png) no-repeat;	
+}
+#ticket ul{
+	padding: 46px 240px;
+}
+.ti_a_li{
+	padding-top:30px;
+	width: 140px;
+	height:50px;
+	background-color:#a7e7ff;
+	font:18px "微软雅黑";
+	text-align:center;
+}
+.ti_a_li a {
+	color:black;
+}
+.ti_a_li:hover ul{
+		display:block;	
+}
+
+.ti_a_li ul {
+	display:none;
+	position:absolute;	
+	left: 40px;
+}
+.ti_a_li ul li{
+	width: 250px;
+	vertical-align: top;
+}
+.ticket_li{
+	margin-left:-50px;
+	float: left;
+	width: 150px;
+	height: 136px;
+}
+.ticket_text{
+	width: 140px;
+	border-radius: 4px;
+}
+.ticket_li p{
+	font-size:12px;
+	color:#a7e7ff;
+	line-height: 44px;
+}
+.ticket_right{
+	float: left;
+	width: 140px;
+	height: 136px;
+}
+.ticket_button{
+	margin-top: 8px;
+	width: 80px;
+	height: 30px;
+	background:#a7e7ff;
+	border:0px;
+}
+.ticket_right p{
+	font-size:16px;
+	color: orangered;
+	line-height: 24px;
+}
+.ti_c_li ul li{
+	display:block;
+}
+.ti_c_ul ul{
+	margin:0 auto;
+}
+#content_ul li{
+	margin-left:-8px;
+	width:200px ;
+	background-color:#f3f3f3;
+}
+#content_ul li a:hover{
+	color: #C5C5C5;
+	font-weight:bolder;
+}
+#content_tab{
+	margin:30px auto;
+	width: 1200px;
+}
+.table_lf{
+	float:left;
+	
+	width:570px;
+}
+.lf_li{
+	width: 40px;
+	text-align: center;
+}
+.table_lf ul li a{
+	font:14px "微软雅黑";
+}
+.table_lf ul li:hover{
+	background-color: aqua;
+}
+.table_rg{
+	float:left;
+	margin-left:50px;
+	width: 570px;
+}
+.pcenter{
+	border-bottom: 2px solid;
+	font-size: 8px;
+}
+.content_li{
+	padding:4px;
+	width:120px;
+	text-align:center;	
+}
+.f20{
+	font-size: 20px;
+	line-height: 40px;
+}
+#f21{
+	font-size: 20px;
+	color: orangered;
+}
+.tab_t{
+	padding: 20px;
+}
+#se_10{
+	width: 120px;
+	height: 30px;
+	border-radius:4px ;
+}
+
+#content_fit{
+	width: 100px;
+	height: 300px;
+	background-color: red;
+}
+.f4{
+	font-size: 20px;
+}
+.f22{
+	font-size: 18px;
+	padding-left: 10px;
+
+}
+.table_bg{
+	width: 380px;
+	background-color:aliceblue;}
+.table_bg table a:hover{
+	color:blue;
+}
+#ul_sc ul li{
+	width: 300px;
+}
+#content_foot{
+	margin:0 auto;
+	width: 1200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+#ticket{
+	position: relative;
+	margin:0 auto;
+	width: 1400px;
+	height: 410px;
+	background: url(../images/20160617150356_775.png) no-repeat;
+}
+#ticket ul{
+	padding: 46px 70px;
+}
+.ti_a_li{
+	display: block;
+	padding-top:30px;
+	width: 80px;
+	height:50px;
+	background-color: aqua;
+	font:18px "微软雅黑";
+	text-align:center;
+	
+}
+.ti_a_li a {
+	color:black;
+}
+.ti_a_li:hover ul{
+		display:block;
+		background:white;
+}
+
+.ti_a_li ul {
+	display:none;
+	position:absolute;
+	top:46px;
+	left: 150px;
+}
+.ti_a_li ul li{
+	width: 250px;
+	vertical-align: top;
+}
+.ticket_li{
+	margin-left:-50px;
+	float: left;
+	width: 150px;
+	height: 136px;
+}
+.ticket_text{
+	width: 140px;
+	border-radius: 4px;
+}
+.ticket_li p{
+	font-size:12px;
+	color: orangered;
+	line-height: 44px;
+}
+.ticket_right{
+	float: left;
+	width: 140px;
+	height: 136px;
+	
+}
+.ticket_button{
+	margin-top: 8px;
+	width: 80px;
+	height: 30px;
+	background: blue;
+	border: 0px;
+	
+}
+.ticket_right p{
+	font-size:16px;
+	color: orangered;
+	line-height: 24px;
+}
+.ti_c_li ul li{
+	display:block;
+}
+.ti_c_ul ul{
+	position: absolute;
+	top: 346px;
+	left:450px;
+}
+#groupshop{	
+	margin:0 auto;
+	width: 1200px;
+}
+.gs_left{
+	float: left;
+	width: 300px;
+	margin:40px 20px 0px 60px;		
+}
+.gs_a{
+	height: 200px;
+	background: url(../images/dj_a.jpg) no-repeat;
+	
+}
+.gs_b{
+	margin:90px 20px 20px 20px;
+}
+.gs_b ul li{
+	display: inline-block;
+	width: 80px;
+}
+.gs_b ul li a{
+	font: 20px "微软雅黑";
+}
+.f40{
+	padding: 30px 30px;
+}
+.gs_right{
+	margin:40px;
+	float: left;
+}
+
+.gs_right p{
+	text-align: center;
+}
+.ho_lt:{
+	width:600px ;
+	float: left;
+}
+.ho_se{
+	margin-left: 80px;
+}
+.ho_sp{
+	margin-left: 300px;
+}
+.ho_ta{
+	float: right;
+}
+.ho_rt{
+	float: left;
+	border-right:2px dotted;
+	border-color:gray;
+	margin-left: 160px;
+}
+.ho_rt span{
+	color: red;
+	text-decoration: line-through;
+}
+a:hover{
+	color: blue;
+}
+.ta_rt a:hover{
+	color:aquamarine;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+#content_bg{
+	margin:0 auto;
+	width: 1400px;
+	height: 380px;
+	background: url(../images/CghzfVSBbimAGFhrAAjs8wh99Bg707_R_500_280.jpg) no-repeat;		
+}
+.ticket_text{
+	width: 200px;
+	height: 30px;
+	border: 0px;
+	border-left:2px solid gray;
+	border-radius: 2px;
+	
+}
+.content_bgf{
+	margin-left: 24px;
+	float: left;
+	width: 258px;
+	height: 32px;
+	background-color: white;
+	border-radius: 2px;
+}
+#content_bgd{
+	margin-left:180px;
+	padding: 146px 120px;
+}
+#bg_sb{
+	position:relative;
+	top: -38px;
+	left: 310px;
+	width:120px;
+	height: 40px;
+	border-radius:2px ;
+	background-color: orange;
+	border: 0px;
+	color: wheat;
+	font:bold 18px "微软雅黑";
+}
+#bg_sb:hover{
+	background-color:brown;
+}
+.f_c{
+	padding:6px;
+	font: bold 18px "微软雅黑";
+	color: brown;
+	line-height: 20px;
+}
+#content{
+	margin:0 auto;
+	width: 1400px;
+	background:url(../images/xsq_bg.png);
+}
+#content_1{
+	margin:0 auto;
+	width: 1000px;
+}
+.content_pic{
+	float: left;
+	padding: 20px 20px 0px 0px ;
+	width: 310px;
+	height: 320px;	
+}
+.content_pic:hover{
+	transform: scale(1.1);
+	transition: 0.5s;
+	color: gray;
+}
+.content_pic p{
+	font:bold 19px "宋体";
+	color: #333333;
+	white-space: pre;
+}
+.content_pic p span{
+	font:28px "微软雅黑";
+	color:#f60;
+	vertical-align: -2px;
+}
+.content_pic1{
+	float: left;
+	padding:20px 20px 0px 0px;
+	width: 310px;
+	height: 320px;	
+}
+#content_footer{
+	float: left;
+	margin:30px 0px 55px 0px;
+	padding-top: 18px;
+	width: 980px;
+	height: 42px;
+	background: url(../images/12306.jpg);
+	text-align: center;
+}
+#content_footer p{
+	font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
